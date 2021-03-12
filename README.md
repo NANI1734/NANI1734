@@ -1,3 +1,11 @@
+![Hello there](https://media.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif)<img src="https://imgur.com/VCWA5ud.gif" align="right"/>
+
+```js
+<Quick Introduction>
+Eyyoo! Code addict, with life lessons :).
+```
+
+
 - 👋 Hi, I’m @Betond
 - 👀 I’m interested in Javascript , Javascrip frameworks, cpp and c
 - 🌱 I’m currently learning deno and typescript
