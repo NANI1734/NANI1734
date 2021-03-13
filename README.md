@@ -1,4 +1,4 @@
-![Hello there](https://media.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif)<img src="https://media.giphy.com/media/xUPGcleNhZQiIt1xfi/giphy.gif" align="right"/>
+<img src="https://media.giphy.com/media/5aY7BIL8PoLL9nwa3p/giphy.gif" align="center"/>
 
 ```js
 <Quick Introduction>
