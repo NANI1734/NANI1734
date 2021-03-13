@@ -64,6 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8594](https://github.com/yarnpkg/yarn/issues/8594) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
 <!--END_SECTION:activity-->
 
 </details>
