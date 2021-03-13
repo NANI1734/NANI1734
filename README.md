@@ -55,6 +55,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on a discord bot](https://dev.to/beyond/working-on-a-discord-bot-82a)
+- [Hello I'm new to Dev](https://dev.to/beyond/hello-i-m-new-to-dev-3p4f)
 <!-- BLOG-POST-LIST:END -->
 
 
