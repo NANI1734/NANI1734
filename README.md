@@ -1,6 +1,6 @@
 ### Hi there, I'm Beyond - aka [Beyond][website] 👋
 
-[![Website](https://img.shields.io/website?label=vivel.tech&style=for-the-badge&urlhttps://vivel.tech)](https://vivel.tech)
+[![Website](https://img.shields.io/website?label=vivel.tech&style=for-the-badge&url=https://vivel.tech)](https://vivel.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheOGDrip?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=TheOGDrip)
 
 ## I'm a Beyond, Developer, and Student!!
