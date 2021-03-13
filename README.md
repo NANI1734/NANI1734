@@ -55,6 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [looking for new ppl in https://github.com/VivelDevelopment](https://dev.to/beyond/looking-for-new-ppl-in-https-github-com-viveldevelopment-i04)
 - [Working on a discord bot](https://dev.to/beyond/working-on-a-discord-bot-82a)
 - [Hello I'm new to Dev](https://dev.to/beyond/hello-i-m-new-to-dev-3p4f)
 <!-- BLOG-POST-LIST:END -->
