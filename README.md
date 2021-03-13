@@ -67,7 +67,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8594](https://github.com/yarnpkg/yarn/issues/8594) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
+1. ❗️ Closed issue [#1](https://github.com/VivelDevelopment/Vivex/issues/1) in [VivelDevelopment/Vivex](https://github.com/VivelDevelopment/Vivex)
 <!--END_SECTION:activity-->
 
 </details>
