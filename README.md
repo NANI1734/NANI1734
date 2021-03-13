@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watching Anime
 
-### Spotify Playing 🎧
-
-`
 
 ### Connect with me:
 
