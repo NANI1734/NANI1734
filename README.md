@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://vivel.tech" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://discord.gg/vV4yRgYVrU" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.discordapp.com/attachments/810874024066154516/820262015020957696/smWHPCNoPI8AAAAASUVORK5CYII.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="beyondthebestinthisworld@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
