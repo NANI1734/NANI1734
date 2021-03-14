@@ -83,14 +83,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true&theme=gruvbox)](https://github.com/NANI1734)
+  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true&theme=onedark)](https://github.com/NANI1734)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Top langs </summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact&theme=gruvbox)](https://github.com/NANI1734)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact&theme=onedark)](https://github.com/NANI1734)
 
 </details>
 
