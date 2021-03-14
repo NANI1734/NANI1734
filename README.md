@@ -43,8 +43,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.discordapp.com/attachments/810874024066154516/820322135247290438/touchicon-180.png" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.discordapp.com/attachments/818063707686567956/820368676930584589/bPw5dqFC6v9WjNt40NgP8HUkHvG5jlyMMAAAAASUVORK5CYII.png" />
+<img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/74981187/111068067-93ac1080-84e0-11eb-9643-9a1dd8acc683.png" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+
 
 <br />
 <br />
