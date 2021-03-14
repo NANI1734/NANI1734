@@ -90,7 +90,7 @@
 <details>
   <summary>:zap: GitHub Top langs </summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact)]
 
 </details>
 
