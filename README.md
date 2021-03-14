@@ -83,7 +83,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="beyond's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true" />
+  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true)
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Top langs </summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 </details>
 
