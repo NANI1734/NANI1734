@@ -75,7 +75,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zyrouge/zyrouge/pull/1) in [zyrouge/zyrouge](https://github.com/zyrouge/zyrouge)
+1. 💪 Opened PR [#5](https://github.com/scratch-for-discord/scratch-for-discord-app/pull/5) in [scratch-for-discord/scratch-for-discord-app](https://github.com/scratch-for-discord/scratch-for-discord-app)
 <!--END_SECTION:activity-->
 
 </details>
