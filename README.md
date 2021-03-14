@@ -100,11 +100,11 @@
 
 ### My discord bots
 
-#Musicboi
+###Musicboi
 [![Musicboi](https://top.gg/api/widget/804253258763862026.svg)](https://top.gg/bot/804253258763862026)
 
 
 <br />
 
-#Animebot
+###Animebot
 [![Animebot](https://top.gg/api/widget/791591817082044417.svg)](https://top.gg/bot/791591817082044417)
