@@ -75,7 +75,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/VivelDevelopment/Vivex/issues/1) in [VivelDevelopment/Vivex](https://github.com/VivelDevelopment/Vivex)
+1. 💪 Opened PR [#1](https://github.com/zyrouge/zyrouge/pull/1) in [zyrouge/zyrouge](https://github.com/zyrouge/zyrouge)
 <!--END_SECTION:activity-->
 
 </details>
