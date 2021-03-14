@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true)](https://github.com/NANI1734)
+  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true_theme=gruvbox)](https://github.com/NANI1734)
 
 </details>
 
