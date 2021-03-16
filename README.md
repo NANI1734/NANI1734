@@ -99,7 +99,10 @@
 [twitter]: https://twitter.com/TheOGDrip
 [youtube]: https://www.youtube.com/channel/UCLaT8K5Px6kG6J-uGznapvQ
 
-### My discord bots
+<details>
+  <summary>:zap: My discord bots</summary>
+
+   My discord bots
 <br />
 
 ### Musicboi
@@ -110,3 +113,7 @@
 
 ### Animebot
 [![Animebot](https://top.gg/api/widget/791591817082044417.svg)](https://top.gg/bot/791591817082044417)
+
+
+</details>
+
