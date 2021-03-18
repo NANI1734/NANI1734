@@ -77,7 +77,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/rohitsaini1196/google-forms/issues/6) in [rohitsaini1196/google-forms](https://github.com/rohitsaini1196/google-forms)
+1. 🗣 Commented on [#5](https://github.com/scratch-for-discord/scratch-for-discord-app/issues/5) in [scratch-for-discord/scratch-for-discord-app](https://github.com/scratch-for-discord/scratch-for-discord-app)
 <!--END_SECTION:activity-->
 
 </details>
