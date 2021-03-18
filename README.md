@@ -95,7 +95,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact&theme=radical)](https://github.com/NANI1734)
 
 </details>
-<p align="center">
+
   <details>
     <summary>:zap: Discord status </summary>
   <div align="center"><img src="https://discord.c99.nl/widget/theme-1/775970684588523570.png"></div>
@@ -104,8 +104,7 @@
     <summary>:zap: My trophys </summary>
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nani1734&theme=dracula&count_private=true"></div>
     <details>
- stats"/>
-</p>
+
 [website]: https://vivel.tech
 [twitter]: https://twitter.com/TheOGDrip
 [youtube]: https://www.youtube.com/channel/UCLaT8K5Px6kG6J-uGznapvQ
