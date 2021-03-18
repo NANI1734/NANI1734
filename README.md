@@ -95,6 +95,12 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact&theme=radical)](https://github.com/NANI1734)
 
 </details>
+<a href="https://discordapp.com/users/775970684588523570/">
+  <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+ <a href="https://github.com/NANI1734">
+  <img align="left" alt="Beyond's Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 [website]: https://vivel.tech
 [twitter]: https://twitter.com/TheOGDrip
