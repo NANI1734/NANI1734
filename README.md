@@ -103,7 +103,7 @@
   <details>
     <summary>:zap: My trophys </summary>
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nani1734&theme=dracula&count_private=true"></div>
-    <details>
+    </details>
 
 [website]: https://vivel.tech
 [twitter]: https://twitter.com/TheOGDrip
