@@ -78,7 +78,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/DashCruft-Nation/DisCruft-Bot/pull/74) in [DashCruft-Nation/DisCruft-Bot](https://github.com/DashCruft-Nation/DisCruft-Bot)
+1. 🗣 Commented on [#74](https://github.com/DashCruft-Nation/DisCruft-Bot/issues/74) in [DashCruft-Nation/DisCruft-Bot](https://github.com/DashCruft-Nation/DisCruft-Bot)
 <!--END_SECTION:activity-->
 
 </details>
