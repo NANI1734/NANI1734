@@ -78,7 +78,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Gav-King/Gav-King/pull/1) in [Gav-King/Gav-King](https://github.com/Gav-King/Gav-King)
+1. 💪 Opened PR [#74](https://github.com/DashCruft-Nation/DisCruft-Bot/pull/74) in [DashCruft-Nation/DisCruft-Bot](https://github.com/DashCruft-Nation/DisCruft-Bot)
 <!--END_SECTION:activity-->
 
 </details>
