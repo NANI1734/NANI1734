@@ -78,7 +78,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/DashCruft-Nation/DisCruft-Bot/issues/74) in [DashCruft-Nation/DisCruft-Bot](https://github.com/DashCruft-Nation/DisCruft-Bot)
+1. 🗣 Commented on [#8588](https://github.com/yarnpkg/yarn/issues/8588) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
 <!--END_SECTION:activity-->
 
 </details>
