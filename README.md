@@ -10,6 +10,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watching Anime
 
+### Spotify
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Beyond's Spotify Playlist!" width="350" />](https://open.spotify.com/user/z74jlorietb4f3yh8gd7i4rbv)
 
 ### Connect with me:
 
