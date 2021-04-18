@@ -106,7 +106,7 @@
    </details>
 <details>
   <summary><strong>:zap: Wakatime Statistics!</strong></summary>
-   <a href="https://ycyanxw.github.io/yCyanx">
+   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nani1734">
 </a>
 </details>
