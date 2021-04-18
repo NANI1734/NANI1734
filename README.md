@@ -12,7 +12,7 @@
 
 ### Spotify
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Beyond's Spotify Playlist!" width="350" />](https://open.spotify.com/user/z74jlorietb4f3yh8gd7i4rbv)
+[<img src=https://beyond-spotify-readme-phi.vercel.app/api/spotify-playing" alt="Beyond's Spotify Playlist!" width="350" />](https://open.spotify.com/user/z74jlorietb4f3yh8gd7i4rbv)
 
 ### Connect with me:
 
