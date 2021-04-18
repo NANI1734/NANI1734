@@ -110,6 +110,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nani1734">
 </a>
 </details>
+<details>
     <summary>:zap: My trophys </summary>
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nani1734&theme=dracula&count_private=true"></div>
     </details>
