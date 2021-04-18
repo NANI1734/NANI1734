@@ -105,6 +105,13 @@
   <div align="center"><img src="https://discord.c99.nl/widget/theme-1/775970684588523570.png"></div>
    </details>
   <details>
+  <details>
+  <summary><strong>:zap: Wakatime Statistics!</strong></summary>
+   <a href="https://ycyanxw.github.io/yCyanx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nani1734">
+</a>
+
+</details>
     <summary>:zap: My trophys </summary>
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nani1734&theme=dracula&count_private=true"></div>
     </details>
