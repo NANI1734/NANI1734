@@ -81,7 +81,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1750](https://github.com/mikro-orm/mikro-orm/issues/1750) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+1. 🗣 Commented on [#1750](https://github.com/mikro-orm/mikro-orm/issues/1750) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
