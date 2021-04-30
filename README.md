@@ -81,7 +81,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8588](https://github.com/yarnpkg/yarn/issues/8588) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
+1. ❗️ Opened issue [#1750](https://github.com/mikro-orm/mikro-orm/issues/1750) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
 <!--END_SECTION:activity-->
 
 </details>
