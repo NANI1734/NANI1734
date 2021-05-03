@@ -81,7 +81,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1750](https://github.com/mikro-orm/mikro-orm/issues/1750) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+1. 🗣 Commented on [#3945](https://github.com/chakra-ui/chakra-ui/issues/3945) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 <!--END_SECTION:activity-->
 
 </details>
