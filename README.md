@@ -89,14 +89,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Status](https://github-readme-stats.vercel.app/api?username=nani1734&show_icons=true&hide_border=true&theme=radical)](https://github.com/NANI1734)
+  [![Status](https://github-readme-stats.vercel.app/api?username=beyonddevy&show_icons=true&hide_border=true&theme=radical)](https://github.com/NANI1734)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Top langs </summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nani1734&layout=compact&theme=radical)](https://github.com/NANI1734)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beyonddevy&layout=compact&theme=radical)](https://github.com/NANI1734)
 
 </details>
 
@@ -107,12 +107,12 @@
 <details>
   <summary><strong>:zap: Wakatime Statistics!</strong></summary>
    <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nani1734">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=beyonddevy">
 </a>
 </details>
 <details>
     <summary>:zap: My trophys </summary>
-  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nani1734&theme=dracula&count_private=true"></div>
+  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=beyonddevy&theme=dracula&count_private=true"></div>
     </details>
 
 [website]: https://vivel.tech
