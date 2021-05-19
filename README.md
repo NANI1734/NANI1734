@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and watching Anime
 
 ### BuyMyACoffee
-https://www.buymeacoffee.com/BeyondDevy
+<a href="https://www.buymeacoffee.com/BeyondDevy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
 
 ### Spotify
 
