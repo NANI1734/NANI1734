@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1755](https://github.com/dylanaraps/neofetch/issues/1755) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+1. ❌ Closed PR [#1754](https://github.com/dylanaraps/neofetch/pull/1754) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 <!--END_SECTION:activity-->
 
 </details>
