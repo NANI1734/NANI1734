@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watching Anime
+- 💻 Working on os based on arch called KittyOs
 
 ### BuyMyACoffee
 <a href="https://www.buymeacoffee.com/BeyondDevy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
