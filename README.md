@@ -84,7 +84,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2707](https://github.com/benawad/dogehouse/issues/2707) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. ❗️ Opened issue [#1755](https://github.com/dylanaraps/neofetch/issues/1755) in [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
 <!--END_SECTION:activity-->
 
 </details>
