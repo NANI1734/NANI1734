@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make bot on discord.js #1](https://www.youtube.com/watch?v=t9MtpN0YqOE)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLaT8K5Px6kG6J-uGznapvQ)
@@ -72,10 +72,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guys check API with go](https://dev.to/beyond/guys-check-api-with-go-2fo7)
-- [looking for new ppl in https://github.com/VivelDevelopment](https://dev.to/beyond/looking-for-new-ppl-in-https-github-com-viveldevelopment-i04)
-- [Working on a discord bot](https://dev.to/beyond/working-on-a-discord-bot-82a)
-- [Hello I'm new to Dev](https://dev.to/beyond/hello-i-m-new-to-dev-3p4f)
+
 <!-- BLOG-POST-LIST:END -->
 
 
