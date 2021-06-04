@@ -62,7 +62,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make bot on discord.js #1](https://www.youtube.com/watch?v=t9MtpN0YqOE)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLaT8K5Px6kG6J-uGznapvQ)
