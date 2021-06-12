@@ -85,7 +85,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/rohitsaini1196/google-forms/issues/6) in [rohitsaini1196/google-forms](https://github.com/rohitsaini1196/google-forms)
+1. 🗣 Commented on [#5](https://github.com/3d-Lock/OBSD-RE/issues/5) in [3d-Lock/OBSD-RE](https://github.com/3d-Lock/OBSD-RE)
 <!--END_SECTION:activity-->
 
 </details>
