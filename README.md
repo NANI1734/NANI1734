@@ -85,7 +85,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/3d-Lock/OBSD-RE/issues/5) in [3d-Lock/OBSD-RE](https://github.com/3d-Lock/OBSD-RE)
+1. 🎉 Merged PR [#1](https://github.com/BeyondDevy/Rxploit/pull/1) in [BeyondDevy/Rxploit](https://github.com/BeyondDevy/Rxploit)
 <!--END_SECTION:activity-->
 
 </details>
