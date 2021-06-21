@@ -85,7 +85,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1729](https://github.com/calamares/calamares/issues/1729) in [calamares/calamares](https://github.com/calamares/calamares)
+1. 🗣 Commented on [#1729](https://github.com/calamares/calamares/issues/1729) in [calamares/calamares](https://github.com/calamares/calamares)
 <!--END_SECTION:activity-->
 
 </details>
